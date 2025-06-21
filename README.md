@@ -22,4 +22,4 @@ To use this repository with the memory system:
 
 ## License
 
-See LICENSE file for details.
+This project is released into the public domain using The Unlicense. See the [LICENSE](LICENSE) file for details.
